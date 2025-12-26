@@ -5,6 +5,12 @@ The workflow covers hypothesis testing, effect size estimation, statistical powe
 
 The code is collaboration-ready and can be executed seamlessly in Google Colab or local R environments.
 
+Files :
+Analysis.R - R code
+Statistical-Hypothesis-Testing-and-Power-Analysis-in-R.ipnyb - R code in google collab 
+experimental_data - Dataset used
+report.pdf - consolidated report
+
 Key Objectives
 
 Perform two-sample t-tests to compare group means
